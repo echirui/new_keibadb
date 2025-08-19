@@ -210,5 +210,4 @@ __marimo__/
 .env
 
 # venv
-.venv/*
 .python-version
