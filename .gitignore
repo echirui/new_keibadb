@@ -211,3 +211,6 @@ __marimo__/
 
 # venv
 .python-version
+
+csv_data/
+log.txt
